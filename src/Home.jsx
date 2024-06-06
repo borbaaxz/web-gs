@@ -41,7 +41,7 @@ function Home() {
             <Link to="/section1" style={linkHover}>Missão</Link>
             <Link to="/section2" style={linkHover}>Azul Sustentável</Link>
             <Link to="/section3" style={linkHover}>Oceano agora</Link>
-            <Link to="/section4" style={linkHover}>Seção 4</Link>
+            <Link to="/section4" style={linkHover}>Contato</Link>
           </animated.div>
         </div>
       </header>

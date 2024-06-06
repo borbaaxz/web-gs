@@ -25,12 +25,18 @@ function Section1() {
           <animated.div style={slideIn}>
             <div className="escritas" style={floatIn}>
               <h1>Missão</h1>
-              <p>A missão do O20 é catalisar ações que promovam a sustentabilidade dos oceanos através de abordagens integradas e baseadas em evidências. Nossos principais objetivos incluem:</p>
+              <p>O grupo em parceria com a Oceans propõe o desenvolvimento de uma plataforma de monitoramento e gestão sustentável dos oceanos chamada Sustentablue. 
+                Esta solução integra várias tecnologiaspara capturar, analisar e visualizar dados sobre a saúde dos oceanos,
+                 com o objetivo de reduzir a poluição marinha e promover práticas de economia azul.</p>
+                <p>A solução proposta, Sustentablue, aborda diretamente os principais problemas enfrentados pelos oceanos através de uma abordagem tecnológica e integrada. 
+                  Aqui estão os principais pontos:</p>
+                <p>Tecnologia Simples e Inovadora</p>
+                <p>Abordagem Integrada</p>
+                <p>Facilidade de Acesso a Dados</p>
+                <p>Sustentabilidade Econômica</p>
+                <p>Parcerias Estratégicas</p>
               <ul>
-                <li>Proteção Ambiental: Implementar e apoiar medidas para proteger ecossistemas marinhos vulneráveis, combater a poluição e mitigar os efeitos das mudanças climáticas nos oceanos.</li>
-                <li>Economia Azul Sustentável: Desenvolver e promover práticas econômicas que sejam ambientalmente sustentáveis e economicamente viáveis, como a pesca sustentável, aquicultura responsável e turismo ecológico.</li>
-                <li>Inovação Científica: Incentivar a pesquisa e a inovação tecnológica para entender melhor os oceanos e desenvolver soluções para desafios como a acidificação dos oceanos, a perda de biodiversidade e a poluição por plásticos.</li>
-                <li>Educação e Conscientização: Aumentar a conscientização pública e educar sobre a importância dos oceanos, incentivando uma cultura de conservação e responsabilidade ambiental.</li>
+                
               </ul>
             </div>
           </animated.div>

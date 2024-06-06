@@ -61,7 +61,7 @@ function Section3() {
         <animated.div style={fadeIn}>
           <animated.div style={slideIn}>
             <div className="escritas" style={floatIn}>
-              <h1>Dados do Oceano</h1>
+              <h1>Dados do Oceano (Rio de Janeiro)</h1>
               {loading ? (
                 <p>Carregando...</p>
               ) : (
