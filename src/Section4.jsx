@@ -14,6 +14,7 @@ function Section4() {
     config: { duration: 1500 },
   });
 
+  
   return (
     <div>
       <Navbar />
