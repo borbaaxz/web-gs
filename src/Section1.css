@@ -1,0 +1,55 @@
+/* Section1.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-list {
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    padding-top: 20px;
+  }
+  
+  .nav-list li {
+    margin: 0 15px;
+  }
+  
+  .nav-list li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid white; /* Borda ao redor das letras */
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 
+                0 1px 3px rgba(0, 0, 0, 0.08); /* Sombra para efeito flutuante */
+    transition: transform 0.2s ease-in-out; /* Transição suave para o efeito de hover */
+  }
+  
+  .nav-list li a:hover {
+    text-decoration: none; /* Remover sublinhado no hover */
+    transform: translateY(-3px); /* Efeito de flutuação no hover */
+  }
+  
+  .section-container {
+    padding-top: 60px; /* Ajuste este valor se a altura do header mudar */
+  }
+  
+  .escritas {
+    padding: 20px;
+    border: 2px solid #333; /* Borda ao redor das letras */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 
+                0 1px 3px rgba(0, 0, 0, 0.08); /* Sombra para efeito flutuante */
+    border-radius: 5px;
+    background: linear-gradient(to bottom right, #005c97, #363795); /* Degradê azul */
+    transition: transform 0.2s ease-in-out; /* Transição suave para o efeito de hover */
+  }
